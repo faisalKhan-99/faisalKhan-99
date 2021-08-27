@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Faisal Khan
-- 🌱 I’m currently learning mobile app development. I started with Android but have now shifted to cross platform using React Native. 
+- 🌱 I’m currently learning mobile app development. I started with Android but have now shifted to cross platform using React Native. I also develop Wordpress websites and am currently invested in learning Ethereum blockchain.
 - 💞️ I’m looking to collaborate on any app development project which would help me widen my horizons of knowledge.
 - 📫 You can reach me at my Email -  asdfaisal39@gmail.com
 
