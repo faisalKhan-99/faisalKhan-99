@@ -1,7 +1,5 @@
 - 👋 Hello, I’m Faisal Khan
-- I have 1+ year experience working with different tech such as Amazon Services - EC2 servers, S3 storage, Realtime Databases, RDS etc, Cross platform Mobile Applications using React Native.
-- Currently working at AtlantisDAO as a Mobile Application Developer, encouraging individuals explore, earn incentives and preserve EARTH!
-- Also part of SolanaForIndia cohort 2.0, shipping out RUST programs and chewing glass everyday!
+- I have experience working with different tech such as Amazon Services - EC2 servers, S3 storage, Realtime Databases, RDS etc, Cross platform Mobile Applications using React Native. Webapps using reactjs
 - 📫 You can reach me at my Email -  asdfaisal39@gmail.com
 
 <!---
